@@ -6,6 +6,7 @@ Este projeto é uma solução para o desafio proposto no processo seletivo da DT
 ## Screenshot da Aplicação
 
 ![Pré-visualização da Aplicação Funcionando](./src/assets/screenshot.png)
+
 ## Decisões de Projeto
 
 * **Arquitetura:** Optei por uma arquitetura **Frontend-only** utilizando React. Toda a lógica de negócio, desde a manipulação do formulário até os cálculos e análises, está contida na própria aplicação cliente. Esta abordagem foi escolhida por ser ágil e perfeitamente adequada ao escopo do problema, que não exige persistência de dados.
