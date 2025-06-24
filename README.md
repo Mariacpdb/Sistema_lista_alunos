@@ -5,7 +5,7 @@ Este projeto é uma solução para o desafio proposto no processo seletivo da DT
 
 ## Screenshot da Aplicação
 
-![Pré-visualização da Aplicação Funcionando](./assets/screenshot.png)
+![Pré-visualização da Aplicação Funcionando](./workspaces/Sistema_lista_alunos/projeto-lista-alunos/src/assets/screenshot.png)
 
 ## Decisões de Projeto
 
