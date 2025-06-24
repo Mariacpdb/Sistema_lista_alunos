@@ -5,7 +5,7 @@ Este projeto é uma solução para o desafio proposto no processo seletivo da DT
 
 ## Screenshot da Aplicação
 
-![Pré-visualização da Aplicação Funcionando](./src/assets/foto.png)
+![Pré-visualização da Aplicação Funcionando](./foto.png)
 
 ## Decisões de Projeto
 
